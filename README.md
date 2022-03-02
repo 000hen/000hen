@@ -1,5 +1,14 @@
 # Hi I'm Muisnow (000hen)
-A Developer who is lazy at coding and enjoying at gaming.
+A Developer who is lazy at coding and enjoying gaming.
+I'm a front-end developer, and good at UI/UX design (Maybe).
+Good at using `JavaScript` (For front and back) and `PHP` (For back-end).
+Learning `C` and `C++` now.
+
+I'm a student at Hualien, Taiwan.
+
+> For the business/copyright issues, please contact  
+> muisnowbusiness@gmail.com  
+> Or create an issue at the repository you want to ask.
 
 My Social Media
  * [Twitter (@Hen000000hen)](https://twitter.com/Hen000000hen)
