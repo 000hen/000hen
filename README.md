@@ -19,17 +19,17 @@ My Social Media
  * [Reddit (u/000hen)](https://www.reddit.com/user/000hen)
 
 ## This is my status
-![Status of Mine](https://github-readme-stats.vercel.app/api?username=000hen&show_icons=true&bg_color=45,5cc9ff,bb5cff&title_color=fff&border_color=fff&text_color=fff&hide_border=false&icon_color=ff47fc)
+![Status of Mine](https://github-readme-stats-ruby-one.vercel.app/api?username=000hen&show_icons=true&bg_color=45,5cc9ff,bb5cff&title_color=fff&border_color=fff&text_color=fff&hide_border=false&icon_color=ff47fc)
 
 ## My top Repos
-[![BotMC](https://github-readme-stats.vercel.app/api/pin/?username=000hen&repo=BotMC&show_icons=true&bg_color=45,5cc9ff,bb5cff&title_color=fff&border_color=fff&text_color=fff&hide_border=false&icon_color=ff47fc)](https://github.com/000hen/BotMC)
-[![YTMusic-Discord](https://github-readme-stats.vercel.app/api/pin/?username=000hen&repo=YTMusic-Discord&show_icons=true&bg_color=45,5cc9ff,bb5cff&title_color=fff&border_color=fff&text_color=fff&hide_border=false&icon_color=ff47fc)](https://github.com/000hen/YTMusic-Discord)
-[![YouTube-Downloader](https://github-readme-stats.vercel.app/api/pin/?username=000hen&repo=YouTube-Downloader&show_icons=true&bg_color=45,5cc9ff,bb5cff&title_color=fff&border_color=fff&text_color=fff&hide_border=false&icon_color=ff47fc)](https://github.com/000hen/YouTube-Downloader)
-[![foodpanda-desktop](https://github-readme-stats.vercel.app/api/pin/?username=000hen&repo=foodpanda-desktop&show_icons=true&bg_color=45,5cc9ff,bb5cff&title_color=fff&border_color=fff&text_color=fff&hide_border=false&icon_color=ff47fc)](https://github.com/000hen/foodpanda-desktop)
-[![LeadMC](https://github-readme-stats.vercel.app/api/pin/?username=3zh-studio-network&repo=LeadMC&show_icons=true&bg_color=45,5cc9ff,bb5cff&title_color=fff&border_color=fff&text_color=fff&hide_border=false&icon_color=ff47fc)](https://github.com/3zh-studio-network/LeadMC)
-[![Neko-Img-Generator](https://github-readme-stats.vercel.app/api/pin/?username=3zh-studio-network&repo=Neko-Img-Generator&show_icons=true&bg_color=45,5cc9ff,bb5cff&title_color=fff&border_color=fff&text_color=fff&hide_border=false&icon_color=ff47fc)](https://github.com/3zh-studio-network/LeadMC)
+[![BotMC](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=000hen&repo=BotMC&show_icons=true&bg_color=45,5cc9ff,bb5cff&title_color=fff&border_color=fff&text_color=fff&hide_border=false&icon_color=ff47fc)](https://github.com/000hen/BotMC)
+[![YTMusic-Discord](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=000hen&repo=YTMusic-Discord&show_icons=true&bg_color=45,5cc9ff,bb5cff&title_color=fff&border_color=fff&text_color=fff&hide_border=false&icon_color=ff47fc)](https://github.com/000hen/YTMusic-Discord)
+[![YouTube-Downloader](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=000hen&repo=YouTube-Downloader&show_icons=true&bg_color=45,5cc9ff,bb5cff&title_color=fff&border_color=fff&text_color=fff&hide_border=false&icon_color=ff47fc)](https://github.com/000hen/YouTube-Downloader)
+[![foodpanda-desktop](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=000hen&repo=foodpanda-desktop&show_icons=true&bg_color=45,5cc9ff,bb5cff&title_color=fff&border_color=fff&text_color=fff&hide_border=false&icon_color=ff47fc)](https://github.com/000hen/foodpanda-desktop)
+[![LeadMC](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=3zh-studio-network&repo=LeadMC&show_icons=true&bg_color=45,5cc9ff,bb5cff&title_color=fff&border_color=fff&text_color=fff&hide_border=false&icon_color=ff47fc)](https://github.com/3zh-studio-network/LeadMC)
+[![Neko-Img-Generator](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=3zh-studio-network&repo=Neko-Img-Generator&show_icons=true&bg_color=45,5cc9ff,bb5cff&title_color=fff&border_color=fff&text_color=fff&hide_border=false&icon_color=ff47fc)](https://github.com/3zh-studio-network/LeadMC)
 
 ## My top used languages
-![Top used languages of Mine](https://github-readme-stats.vercel.app/api/top-langs/?username=000hen&show_icons=true&bg_color=45,5cc9ff,bb5cff&title_color=fff&border_color=fff&text_color=fff&hide_border=false&icon_color=ff47fc)
+![Top used languages of Mine](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=000hen&show_icons=true&bg_color=45,5cc9ff,bb5cff&title_color=fff&border_color=fff&text_color=fff&hide_border=false&icon_color=ff47fc)
 
 > IDK What to do all the time.
