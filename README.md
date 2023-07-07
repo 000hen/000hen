@@ -9,7 +9,7 @@ Learning `C`, `C++` and `C#` (probably some `Java`?) now.
 I'm a student at Hualien, Taiwan.
 
 > For the business/copyright issues, please contact  
-> muisnowbusiness@gmail.com  
+> me@muisnowdevs.one  
 > Or create an issue at the repository you want to ask.
 
 My Social Media
