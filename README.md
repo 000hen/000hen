@@ -1,4 +1,4 @@
-# Hi I'm Muisnow (000hen)
+# 👋 Hi I'm Muisnow (000hen)
 A Student who is lazy at coding and enjoying gaming.
 I'm a front-end developer, maybe good at UI/UX design (I said Maybe).
 Good at using `JavaScript` (For front and back) and `PHP` (For back-end).
@@ -17,7 +17,7 @@ My Social Media
  * [Discord Server (sanZi Network)](https://discord.gg/DMEV865)
  * [YouTube (凝雪桑默 Muisnow)](https://www.youtube.com/@Muisnow)
  * [Github (@000hen)](https://github.com/000hen)
- * [Devs 000](https://muisnow.3zh-studio.com)
+ * [Muisnow Devs (My Website)](https://muisnowdevs.one)
  * [Reddit (u/000hen)](https://www.reddit.com/user/000hen)
 
 ## This is my status
