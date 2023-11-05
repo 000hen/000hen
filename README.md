@@ -1,8 +1,14 @@
-# 👋 Hi I'm Muisnow (000hen)
+<div id="header" align="center">
+
+# 👋 Muisnow です！
+
+</div>
+
+<img src="https://nap.social/system/accounts/avatars/111/143/044/272/363/683/original/c77fc27cd75022fc.png" align="right" width="20%"  />
 A Student who is lazy at coding and enjoying gaming.
 I'm a front-end developer, maybe good at UI/UX design (I said Maybe).
 Good at using `JavaScript` (For front and back) and `PHP` (For back-end).
-Learning `C`, `C++` and `C#` (probably some `Java`?) now.
+Learning `Rust`, `C`, `C++` and `C#` (probably some `Java`?) now.
 
 <a href="https://www.buymeacoffee.com/muisnow" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -14,11 +20,10 @@ I'm a student at Hualien, Taiwan.
 
 My Social Media
  * [Twitter (@Hen000000hen)](https://twitter.com/Hen000000hen)
- * [Discord Server (sanZi Network)](https://discord.gg/DMEV865)
+ * [Mastodon (@muisnow@nap.social)](https://nap.social/@muisnow)
  * [YouTube (凝雪桑默 Muisnow)](https://www.youtube.com/@Muisnow)
  * [Github (@000hen)](https://github.com/000hen)
  * [Muisnow Devs (My Website)](https://muisnowdevs.one)
- * [Reddit (u/000hen)](https://www.reddit.com/user/000hen)
 
 ## This is my status
 ![Status of Mine](https://github-readme-stats.vercel.app/api?username=000hen&show_icons=true&bg_color=45,5cc9ff,bb5cff&title_color=fff&border_color=fff&text_color=fff&hide_border=false&icon_color=ff47fc)
