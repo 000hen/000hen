@@ -1,8 +1,4 @@
-<div id="header" align="center">
-
-# 👋 Muisnow です！
-
-</div>
+<h1 align="center">👋 Muisnow です！</h1>
 
 <img src="https://nap.social/system/accounts/avatars/111/143/044/272/363/683/original/c77fc27cd75022fc.png" align="right" width="20%" />
 
