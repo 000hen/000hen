@@ -1,6 +1,6 @@
 <h1 align="center">👋 Muisnow です！</h1>
 
-<img src="https://nap.social/system/accounts/avatars/111/143/044/272/363/683/original/c77fc27cd75022fc.png" align="right" width="20%" />
+<img src="https://media.nap-social.sanziusercontent.com/accounts/avatars/111/143/044/272/363/683/original/c77fc27cd75022fc.png" align="right" width="20%" />
 
 A Student who is lazy at coding and enjoying gaming.
 I'm a front-end developer, maybe good at UI/UX design (I said Maybe).
