@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hen000000hen" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="hen000000hen" height="30" width="40" /></a>
-<a href="https://instagram.com/chenkuiheng" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="chenkuiheng" height="30" width="40" /></a>
+<a href="https://twitter.com/hen000000hen" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="hen000000hen" /></a>
+<a href="https://instagram.com/chenkuiheng" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="chenkuiheng" /></a>
 </p>
 
 <h3 align="left">I write:</h3>
