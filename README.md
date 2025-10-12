@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/hen000000hen" target="blank"><img src="https://img.shields.io/twitter/follow/hen000000hen?logo=twitter&style=for-the-badge" alt="hen000000hen" /></a> </p>
 
-- 🔭 I’m currently working on [Dalist](https://dalist.app)
+- 🔭 I’m currently working on [Dalist](https://dalist.app) and [Wallefy](https://wallefy.app)
 
 - 🌱 I’m currently learning **Jetpack Compose, React**
 
