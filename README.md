@@ -35,6 +35,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/muisnow"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="muisnow" /></a></p><br><br>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=000hen&show_icons=true&locale=en&layout=compact" alt="000hen" /></p>
-
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=000hen&show_icons=true&locale=en" alt="000hen" /></p>
+![Top Languages](./profile/top-langs.svg)  
+![Stats](./profile/stats.svg)
