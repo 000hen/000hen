@@ -24,9 +24,9 @@
 </p>
 
 <h3 align="left">I write:</h3>
-<p align="left"><img src="https://skillicons.dev/icons?i=js,ts,python,kotlin,dart,rust,php,cs,go,cpp,c,markdown" /></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=ts,kotlin,rust,go,js,python,cpp,dart,java,c,php,cs,markdown" /></p>
 
-<h3 align="left">I use SaaS:</h3>
+<h3 align="left">I use PaaS:</h3>
 <p align="left"><img src="https://skillicons.dev/icons?i=cloudflare,firebase,googlecloud" /></p>
 
 <h3 align="left">I use Framework:</h3>
