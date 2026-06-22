@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hen000000hen" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="hen000000hen" /></a>
-<a href="https://instagram.com/chenkuiheng" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="chenkuiheng" /></a>
+<a href="https://nap.social/muisnow" target="blank"><img align="center" src="https://skillicons.dev/icons?i=misskey" alt="@muisnow@nap.social" /></a>
 </p>
 
 <h3 align="left">I write:</h3>
